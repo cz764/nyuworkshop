@@ -1,3 +1,4 @@
-NYU Workshop example repository
+NYUU Workshop example repository
+Feb 18th
 
 Chenn
